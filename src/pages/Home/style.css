@@ -1,0 +1,19 @@
+.centered-div {
+  display: grid;
+  place-items: center;
+  margin-top: 100px;
+}
+
+table, td, th {
+  border: 1px solid;
+}
+
+table td,
+table th {
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}

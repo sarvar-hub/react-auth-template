@@ -1,0 +1,39 @@
+.login-form {
+  display: flex;
+  flex-wrap: wrap;
+  width: 250px;
+  gap: 15px;
+  font-size: 16px;
+  padding: 10px;
+  background-color: #4fbfd8;
+  border-radius: 5px;
+  justify-content: center;
+}
+
+.login-form h1 {
+  color: #fff;
+}
+
+.login-form p {
+  color: red;
+  width: 100%;
+  text-align: center;
+}
+
+.login-form input {
+  width: 100%;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+.login-form button {
+  width: 100px;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  background-color: #1b628f;
+  cursor: pointer;
+  color: #fff;
+}
